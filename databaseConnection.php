@@ -2,6 +2,8 @@
 /**
  *This file connects to the database or simple terms
  * It is used to acquire the connection to the database
+ * 
+ * added a new branch
  */
 
 
